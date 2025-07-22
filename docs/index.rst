@@ -3,7 +3,14 @@ Get Started: Webroot Download for Users Who’ve Already Purchased from Best Buy
 
 If you’ve made a smart choice and purchased Webroot from a trusted retailer like Best Buy, the next step is to make sure your device is protected by completing your setup. Whether you're installing for the first time or reinstalling on a new device, this guide will help you get started with the **Webroot download already purchased** process.
 
-Many users wonder what to do after buying a security solution in-store. The good news? It’s easy to install and activate Webroot by visiting `webroot.com/secure <https://www.webroot.com/secure>`_. If you’re one of the thousands who searched for **webroot download already purchased best buy**, you’re in the right place.
+{% extends "!layout.html" %}
+
+{% block extrahead %}
+  <meta name="msvalidate.01" content="1DC1D148FE9C6DC15E7FA02C6567157F" />
+  {{ super() }}
+{% endblock %}
+
+Many users wonder what to do after buying a security solution in-store. The good news? It’s easy to install and activate Webroot by visiting webroot.com/secure. If you’re one of the thousands who searched for **webroot download already purchased best buy**, you’re in the right place.
 
 By the end of this post, you'll understand the full installation process, how to activate your product with the Webroot keycode, and how to use **webroot.com secure install** as your go-to portal for protection.
 
